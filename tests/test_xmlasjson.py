@@ -1,6 +1,6 @@
 import json
 
-from readxml import __version__, parse
+from xmlasjson import __version__, parse
 
 
 def test_version():
